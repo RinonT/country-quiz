@@ -1,6 +1,5 @@
-# Country Quiz
+# Country Quiz 
 
-Challenge: Creating a country quiz app using an API, and using React to handle the frontend.
 <!-- 
 ![image](./assets/quiz1.png)
 ![image](./assets/quiz2.png)
@@ -29,9 +28,8 @@ Good luck everybody!
  
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Table of Contents 
 
-- [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
@@ -48,15 +46,12 @@ Good luck everybody!
 ## Design
 **Design** : https://www.figma.com/file/Gw0ZNBbYN8asqFlZWy3jG1
 ## Features
-  - Built with React Hooks when applying Context hooks, inline styles and CSS
-  - **API**: https://restcountries.eu/. Using data from the API to create questions and answers.
-  - Working with one api link but adjusting it to be available for geting the capitals and the countries at the same time. 
-  - Toggling between two different questions and displaying four different answers including the write one.
+  - Built with React Hooks when applying Context Hooks, inline styles and CSS
+  - **API**: Using data from an API to create questions and answers.
+  - Parsing data to get capitals and countries from an API.
+  - Toggling between two different questions and displaying four different answer options.
   - Finding the right answer for the country when rendering the data randomly.
-
-### Wisdom to share:
-The best way to improve is to be motivated and always confident to face challenges no matter how difficult it will be.
-
+ 
 ### Built With
 - [React](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
